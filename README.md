@@ -1,1 +1,1 @@
-# wordpress
+just add this code to your template function.php file.
